@@ -6,7 +6,6 @@ params:
 output: 
   github_document:
     toc: true
-
 ---
 
 ```{r setup, include=FALSE}
